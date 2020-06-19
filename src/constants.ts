@@ -5,7 +5,6 @@ export const SORT_AZ = [
   'contributors',
   'dependencies',
   'devDependencies',
-  'files',
   'keywords',
   'peerDependencies',
   'scripts',
